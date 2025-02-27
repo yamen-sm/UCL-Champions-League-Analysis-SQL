@@ -1,4 +1,4 @@
-# ⚽ Football Statistics Analysis - SQL Project
+#  Football Statistics Analysis - SQL Project
 
 ## 📌 Project Overview
 
@@ -58,7 +58,7 @@ The SQL queries in this project demonstrate various techniques such as **joins, 
 
 ---
 
-## 🔍 SQL Queries Included
+##  SQL Queries Included
 
 This project contains SQL queries that analyze various football statistics:
 
@@ -82,7 +82,7 @@ This project contains SQL queries that analyze various football statistics:
 
 ---
 
-## ⚙️ How to Use
+## ⚙ How to Use
 
 1. **Set Up the Database**
    - Import the `teams`, `players`, `matches`, and `goals` tables into your SQL environment.
@@ -139,14 +139,14 @@ This project contains SQL queries that analyze various football statistics:
 
 ---
 
-## 📌 Technologies Used
+##  Technologies Used
 
 - **SQL** (Structured Query Language)
 - **RDBMS** (Compatible with MySQL, PostgreSQL, SQL Server, SQLite, etc.)
 
 ---
 
-## 💡 Key Learnings
+##  Key Learnings
 
 - Proficiency in **SQL joins (INNER, LEFT, RIGHT, FULL OUTER)** and **subqueries**.
 - Using **aggregate functions (SUM, AVG, COUNT, MAX, MIN)** to extract insights.
